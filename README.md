@@ -1,0 +1,2 @@
+# RealisticSeasons
+不安定な有料プラグイン RealisticSeasons の独自実装バージョン
